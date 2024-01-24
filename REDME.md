@@ -8,4 +8,4 @@
 - 📫 How to reach me: ... you can reach out me via email at mrinalmurmu92@gmail.com or through my GitHub profile bongakora.github.io
 - 😄 Pronouns: ...he/him 
 - ⚡ Fun fact: ...i once traveld to three countries in month 
--->
+# config bongakora.mrinalmurmu92@gmail.com.github.io
